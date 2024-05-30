@@ -8,6 +8,8 @@ Iso-seq data to enhance genome protein annotation.
 
 Uploaded:
 - Oxford Nanopore pre-processing - DONE
+(https://github.com/carla-hazelf/1.Genome-Assembly/blob/main/1.1.1%20oxford%20nanopore%20pre-processing.md)
+
 - Illumina pre-processing - TO DO
 - Masurca assembly - TO DO
 - Scaffolding with Hi-C - TO DO
