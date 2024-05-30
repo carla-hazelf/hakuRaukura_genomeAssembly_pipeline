@@ -7,8 +7,7 @@ Hi-C data for scaffolding.
 Iso-seq data to enhance genome protein annotation.
 
 Uploaded:
-- Oxford Nanopore pre-processing - DONE
-(https://github.com/carla-hazelf/1.Genome-Assembly/blob/main/1.1.1%20oxford%20nanopore%20pre-processing.md)
+- Oxford Nanopore pre-processing - DONE (1.1.1 oxford nanopore pre-processing.md)
 
 - Illumina pre-processing - TO DO
 - Masurca assembly - TO DO
