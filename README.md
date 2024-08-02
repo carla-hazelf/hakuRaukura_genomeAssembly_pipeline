@@ -10,6 +10,6 @@ Uploaded:
 - Oxford Nanopore pre-processing - DONE (1.1.1 oxford nanopore pre-processing.md)
 
 - Illumina pre-processing - DONE 
-- Masurca assembly - TO DO
-- Scaffolding with Hi-C - TO DO
+- Masurca assembly - DONE
+- Scaffolding with Hi-C - DONE
 - Genome annotation - TO DO
