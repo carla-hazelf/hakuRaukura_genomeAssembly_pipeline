@@ -12,4 +12,4 @@ Uploaded:
 - Illumina pre-processing - DONE 
 - Masurca assembly - DONE
 - Scaffolding with Hi-C - DONE
-- Genome annotation - TO DO
+- Genome annotation - DONE
