@@ -7,7 +7,7 @@ The data produced from this study can be requested via the Genomics Aotearoa Dat
 The scripts have been developed into a user-friendly tutorial format.
 
 An overview of the pipeline is here:
-[genomePipeline_1 (1).pdf](https://github.com/user-attachments/files/26169551/genomePipeline_1.1.pdf)
+<img width="899" height="763" alt="image" src="https://github.com/user-attachments/assets/3fae7aef-dd99-4507-a506-fbe5d33623d2" />
 
 
 Figure 1: An outline of the assembly methods used to assemble the Seriola lalandi lalandi genome. Each step is sequentially represented; with input data in dotted outline, and resulting final data in green hexagons, illustrating the progression from raw data to the final assemblies. (a) The pipeline for developing Haku Raukura, i.e., the chromosome-level assembly for Seriola lalandi lalandi. The statistical results for each iteration of the genome assembly are available in Appendix Table S1. (b) The pipeline for extracting and annotating the mitogenome for Seriola lalandi lalandi.
